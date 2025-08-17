@@ -28,7 +28,8 @@
 
 ## Getting Started (Docker Compose)
 
-- Make sure Docker Desktop along with WSL is installed if in windows.
+- Make sure Docker Desktop along with WSL is installed if in windows.  -- With Docker 
+- Refer Dockerfile of both services to install dependencies and run services locally -- Without Docker
 
 1. **Build and run all services:**
     ```
