@@ -1,0 +1,6 @@
+Django>=4.2.23
+channels>=4.0
+channels-redis>=4.0
+pandas>=2.0.0
+openpyxl>=3.0.0
+daphne>=4.0.0
