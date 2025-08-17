@@ -11,7 +11,7 @@
 
 ## Workflow
 
-- Upload Excel files via HTTP (`.xls`, `.xlsx`)
+- Upload Excel files via WS (`.xls`, `.xlsx`)
 - Real-time operations (add/modify columns, get preview) via WebSocket chat interface
 - Download processed Excel file
 
